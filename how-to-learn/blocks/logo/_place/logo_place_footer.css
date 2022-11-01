@@ -2,4 +2,5 @@
   background-image: url(../../../images/logo/logo_place_footer.svg);
   height: 32px;
   width: 228px;
+  filter: invert(1) brightness(2);
 }
